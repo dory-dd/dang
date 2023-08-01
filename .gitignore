@@ -1,0 +1,33 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Dockerfile and docker-compose.yml
+Dockerfile
+docker-compose.yml
+
+# Ignore log files
+log/
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.pyc
+*.swo
+*.swp
